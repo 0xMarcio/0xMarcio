@@ -33,5 +33,3 @@ Welcome to my GitHub! I’m passionate about automation, offensive security, and
 </div>
 
 ---
-
-⭐️ **Pro Badge Unlocked!** Proud GitHub Pro member dedicated to automating workflows, building tools, and hunting vulnerabilities.
