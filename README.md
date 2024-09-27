@@ -41,5 +41,3 @@ Welcome to my GitHub! I’m passionate about automation, offensive security, and
 </div>
 
 ---
-
-⭐️ **Pro Badge Unlocked!** Proud GitHub Pro member committed to building tools that enhance automation and improve security research workflows.
