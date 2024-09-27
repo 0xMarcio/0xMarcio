@@ -2,10 +2,10 @@
 
 Welcome to my GitHub! 
 I’m passionate about automation, offensive security, and exploiting code vulnerabilities without user interaction. 
-My work focuses on building tools and platforms that simplify vulnerability discovery and enhance security workflows.
+My work focuses on building tools and workflows that simplify vulnerability discovery and enhance security workflows.
 
 ### 🚀 About Me
-- 💻 Offensive Security Analyst specializing in **code-first vulnerabilities**, including **SQL Injection** (SQLi), **Firewall Bypasses**, and **AV Evasion**.
+- 💻 Application Security Analyst specializing in **code-first vulnerabilities**, including **SQL Injection** (SQLi), **Firewall Bypasses**, and **AV Evasion**.
 - 🛠️ Proficient in **Bash scripting**, **Python**, **PHP**, **Go**, **C**, and **UNIX tools**. I believe in **code quality** and **automation** to improve efficiency and workflow.
 - 🔍 **Exploit Code**: My focus is on technical vulnerabilities that do not rely on user interaction.
 
