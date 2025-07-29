@@ -1,5 +1,3 @@
-## Exploit Code, Not People! 💥
-
 Welcome to my GitHub! 
 I’m passionate about automation, offensive security, and exploiting code vulnerabilities without user interaction. 
 My work focuses on building tools and workflows that simplify vulnerability discovery and enhance security workflows.
