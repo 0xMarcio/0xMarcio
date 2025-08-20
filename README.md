@@ -6,7 +6,6 @@ My work focuses on building tools and workflows that simplify vulnerability disc
 - [Twitter](https://x.com/marcio1337)
 - [LinkedIn](https://www.linkedin.com/in/0xmarc/)
 - [Open Bug Bounty](https://openbugbounty.org/researchers/0xMarcio)
-- [Personal Website](https://codepwn.win/contact)
 - [Email](mailto:marc@codepwn.win)
 
 ---
